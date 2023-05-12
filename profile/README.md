@@ -7,7 +7,7 @@ Managed by [@GuiBranco](https://github.com/guibranco)
 
 ## Repositories
 
-![Canal do Artesanato](https://github-readme-stats-guibranco.vercel.app/api/pin/?username=InovacaoMediaBrasil&repo=CanalDoArtesanato&show_issues=true&show_pull_requests=true)
+![jQuery.ListaDeCompras](https://github-readme-stats-guibranco.vercel.app/api/pin/?username=InovacaoMediaBrasil&repo=jQuery.ListaDeCompras&show_issues=true&show_pull_requests=true)
 ![ListaDeCompras](https://github-readme-stats-guibranco.vercel.app/api/pin/?username=InovacaoMediaBrasil&repo=ListaDeCompras&show_issues=true&show_pull_requests=true)
 
 ![Visualizador de Pedidos](https://github-readme-stats-guibranco.vercel.app/api/pin/?username=InovacaoMediaBrasil&repo=VisualizadorDePedidos&show_issues=true&show_pull_requests=true)
