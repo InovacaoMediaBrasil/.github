@@ -1,8 +1,0 @@
-{
-    "name": "Size Label Workflow",
-    "description": "Workflow to automatically size a pull request based on file changes.",
-    "iconName": "octicon tag",
-    "categories": [
-        "label"
-    ]
-}
